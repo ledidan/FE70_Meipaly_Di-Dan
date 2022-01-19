@@ -75,7 +75,7 @@ nav ul li:hover a {
 
 /* Carousel */
 .carousel {
-    background-image: url(/images/home_slider.jpg);
+    background-image: url(images/home_slider.jpg);
     height: 700px;
     background-size: cover;
     background-position: center;
@@ -419,7 +419,7 @@ nav ul li:hover a {
 }
 
 .work {
-    background: url(/images/bussiness_img_1.jpg);
+    background: url(images/bussiness_img_1.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
